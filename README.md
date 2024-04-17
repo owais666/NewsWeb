@@ -1,4 +1,4 @@
-# NewsHub
+# NewsWeb
 NewsHub is a dynamic web application built with React.js that aggregates news articles from various categories using external APIs. Stay informed with the latest updates in technology, business, entertainment, and more, all in one place.
 
 ## Features
